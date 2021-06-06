@@ -1,3 +1,3 @@
-    **---->PROJECT-2<---->**  
+   **---->PROJECT-2<---->**  
 
 # Random-Quotes-JavaScript-Project
